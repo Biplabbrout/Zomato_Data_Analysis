@@ -6,7 +6,7 @@
 
 ---
 
-## 🔍  P R O J E C T   O B J E C T I V E
+## 🔍  P R O J E C T    O B J E C T I V E
 
 To analyze Zomato restaurant data and extract meaningful insights by:
 
@@ -16,7 +16,7 @@ To analyze Zomato restaurant data and extract meaningful insights by:
 
 ---
 
-## 📊  D A T A S E T   O V E R V I E W
+## 📊  D A T A S E T    O V E R V I E W
 
 - **Entries**: `148 restaurants`  
 - **Format**: CSV  
@@ -33,7 +33,7 @@ To analyze Zomato restaurant data and extract meaningful insights by:
 
 ---
 
-## 🛠️  T E C H   S T A C K
+## 🛠️  T E C H    S T A C K
 
 | 🧠 Tool         | 📌 Usage                              |
 |----------------|----------------------------------------|
@@ -45,7 +45,7 @@ To analyze Zomato restaurant data and extract meaningful insights by:
 
 ---
 
-## 📈  K E Y   I N S I G H T S
+## 📈  K E Y    I N S I G H T S
 
 ✅ Restaurants offering **online ordering** tend to receive more **votes**  
 ✅ **Cafés** and **Buffets** have higher average costs  
@@ -54,5 +54,5 @@ To analyze Zomato restaurant data and extract meaningful insights by:
 
 ---
 
-## 📂  P R O J E C T   S T R U C T U R E
+## 📂  P R O J E C T    S T R U C T U R E
 
